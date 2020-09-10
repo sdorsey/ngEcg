@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1599755464190,
+  "timestamp": 1599769552813,
   "index": "/ngEcg/index.html",
   "assetGroups": [
     {
@@ -292,12 +292,16 @@
         "/ngEcg/main-es2015.694cefff7b9532480da8.js",
         "/ngEcg/main-es5.694cefff7b9532480da8.js",
         "/ngEcg/manifest.webmanifest",
+        "/ngEcg/ngsw-worker.js",
+        "/ngEcg/ngsw.json",
         "/ngEcg/polyfills-es2015.95bb65e853d2781ac3bd.js",
         "/ngEcg/polyfills-es5.341d48ffc88eaeae911d.js",
         "/ngEcg/runtime-es2015.409e6590615fb48d139f.js",
         "/ngEcg/runtime-es5.409e6590615fb48d139f.js",
+        "/ngEcg/safety-worker.js",
         "/ngEcg/scripts.ec0d386fc8a954aeeec2.js",
-        "/ngEcg/styles.415952550db8e77ac22e.css"
+        "/ngEcg/styles.415952550db8e77ac22e.css",
+        "/ngEcg/worker-basic.min.js"
       ],
       "patterns": []
     },
@@ -595,12 +599,16 @@
     "/ngEcg/main-es2015.694cefff7b9532480da8.js": "2b92f0fcad3f81541f4527e45e2715a2ebecf208",
     "/ngEcg/main-es5.694cefff7b9532480da8.js": "cb6eb941497e8e60f04c6c6501187b975f8516a3",
     "/ngEcg/manifest.webmanifest": "08addf3d60ac759c726e9cda54b8b7e0c32dcbab",
+    "/ngEcg/ngsw-worker.js": "601253069e8f1d4f717e0bd54332587669d68261",
+    "/ngEcg/ngsw.json": "9423a09b769ccdb72970651302e8d583b7384162",
     "/ngEcg/polyfills-es2015.95bb65e853d2781ac3bd.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/ngEcg/polyfills-es5.341d48ffc88eaeae911d.js": "ff14d90e08622190714660721edab5f43578829a",
     "/ngEcg/runtime-es2015.409e6590615fb48d139f.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/ngEcg/runtime-es5.409e6590615fb48d139f.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/ngEcg/safety-worker.js": "f532926317210be6e2679d21748dc44a35389807",
     "/ngEcg/scripts.ec0d386fc8a954aeeec2.js": "9449248ebffc1bc18ad71996048818a989fa76e8",
-    "/ngEcg/styles.415952550db8e77ac22e.css": "e0c6d2fc69f9b07c3ed0d03dc17b624bdffe7462"
+    "/ngEcg/styles.415952550db8e77ac22e.css": "e0c6d2fc69f9b07c3ed0d03dc17b624bdffe7462",
+    "/ngEcg/worker-basic.min.js": "f532926317210be6e2679d21748dc44a35389807"
   },
   "navigationUrls": [
     {
