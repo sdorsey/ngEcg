@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1599839823523,
+  "timestamp": 1599840310031,
   "index": "/ngEcg/index.html",
   "assetGroups": [
     {
@@ -292,12 +292,13 @@
         "/ngEcg/main-es2015.2c25aa54a7b86cc347e8.js",
         "/ngEcg/main-es2015.694cefff7b9532480da8.js",
         "/ngEcg/main-es2015.885e95f07fab16ff4a56.js",
+        "/ngEcg/main-es2015.c9de4ab8a5291274952e.js",
         "/ngEcg/main-es5.2c25aa54a7b86cc347e8.js",
         "/ngEcg/main-es5.694cefff7b9532480da8.js",
         "/ngEcg/main-es5.885e95f07fab16ff4a56.js",
+        "/ngEcg/main-es5.c9de4ab8a5291274952e.js",
         "/ngEcg/manifest.webmanifest",
         "/ngEcg/ngsw-worker.js",
-        "/ngEcg/ngsw.json",
         "/ngEcg/polyfills-es2015.95bb65e853d2781ac3bd.js",
         "/ngEcg/polyfills-es5.341d48ffc88eaeae911d.js",
         "/ngEcg/runtime-es2015.409e6590615fb48d139f.js",
@@ -317,7 +318,9 @@
       "cacheQueryOptions": {
         "ignoreVary": true
       },
-      "urls": [],
+      "urls": [
+        "/ngEcg/ngsw.json"
+      ],
       "patterns": []
     }
   ],
@@ -600,16 +603,18 @@
     "/ngEcg/assets/mglassw.png": "f87d9c488bf8adf5bd851f33110c7430a10ecfdb",
     "/ngEcg/assets/r-300-ecgdata.json": "89c5229d10d158b5bdd51804dc50c41c3ffb9348",
     "/ngEcg/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/ngEcg/index.html": "fca2e4cbf72e8b2ecd810b301503ac6893aa51c1",
+    "/ngEcg/index.html": "27d9e7c562975ad8ad671f239ea88ac549c3642a",
     "/ngEcg/main-es2015.2c25aa54a7b86cc347e8.js": "88e86ad0d249d463d0c1e10cbecda816e0864276",
     "/ngEcg/main-es2015.694cefff7b9532480da8.js": "2b92f0fcad3f81541f4527e45e2715a2ebecf208",
     "/ngEcg/main-es2015.885e95f07fab16ff4a56.js": "d8c88b5c7b4f11123689b1c554fdc20878862c39",
+    "/ngEcg/main-es2015.c9de4ab8a5291274952e.js": "8ccf20e3bfc1d1598782a8a07315aa622dd71f30",
     "/ngEcg/main-es5.2c25aa54a7b86cc347e8.js": "09fff17c4802f23501829c9485715df751b6002a",
     "/ngEcg/main-es5.694cefff7b9532480da8.js": "cb6eb941497e8e60f04c6c6501187b975f8516a3",
     "/ngEcg/main-es5.885e95f07fab16ff4a56.js": "c442e8634e696b90cf7f929c9905b32a1e5dc667",
+    "/ngEcg/main-es5.c9de4ab8a5291274952e.js": "3a9650893cd889ed3588a7e04737a491ed91cc27",
     "/ngEcg/manifest.webmanifest": "08addf3d60ac759c726e9cda54b8b7e0c32dcbab",
     "/ngEcg/ngsw-worker.js": "601253069e8f1d4f717e0bd54332587669d68261",
-    "/ngEcg/ngsw.json": "ba7580dd00c712b4c9deff382c8626587d994e5a",
+    "/ngEcg/ngsw.json": "da115deb2a474620a2df5e8147f10db701ce81f3",
     "/ngEcg/polyfills-es2015.95bb65e853d2781ac3bd.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/ngEcg/polyfills-es5.341d48ffc88eaeae911d.js": "ff14d90e08622190714660721edab5f43578829a",
     "/ngEcg/runtime-es2015.409e6590615fb48d139f.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
